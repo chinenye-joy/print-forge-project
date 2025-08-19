@@ -12,7 +12,7 @@ export default function Home() {
             Join our community of creators and explore a vest liberty of
             user-submitted models.
           </p>
-          <button className=" border-2 border-black bg-white text-black hover:bg-gray-950 hover:text-white py-2 mt-5 px-3 transition duration-300 font-bold">
+          <button className=" border-2 border-black bg-white text-black hover:bg-gray-950 hover:text-white py-2 mt-7 md:mt-12 px-3 transition duration-300 font-bold">
             Browse Models
           </button>
         </div>
