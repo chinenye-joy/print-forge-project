@@ -1,3 +1,4 @@
+import PostsPage from "@/components/api";
 import Image from "next/image";
 
 export default function AboutPage() {
@@ -93,6 +94,8 @@ export default function AboutPage() {
             community to support your journey in 3D printing.
           </p>
         </div>
+
+        {/* <PostsPage/> */}
       </section>
     </main>
   );
